@@ -1,5 +1,5 @@
 ---
-title: "<a href="https://github.com/SammedAdmuthe/automatic-question-generator">Online Code Generator/Search</a>"
+title: "Online Code Generator/Search"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
