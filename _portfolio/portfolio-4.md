@@ -3,7 +3,7 @@ title: "Farmer Vendor Bidding Application"
 excerpt: "An android application and bidding platform that allows for efficient farmer-vendor interaction. Wrote efficient
 database queries - (SQLite). Developed the entire backend logic. Integrated Google maps API to calculate the delivery
 cost based on farmers location.<br/>"
-link: "https://github.com/SammedAdmuthe/BuyMe"
+link: "https://github.com/SammedAdmuthe/Farmer-Vendor-Bidding-System"
 collection: portfolio
 ---
 <!-- <head>
