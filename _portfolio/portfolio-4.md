@@ -1,8 +1,8 @@
 ---
 title: "Farmer Vendor Bidding Application"
-excerpt: "Users can search for specific questions Conceptual/Coding using OpenAI APIs. The interface lets users retrieve source
-code in the R language for customized dataset and provides R Code Editor to run the retrieved code. Experimented with
-ChatGpt 3.5 Turbo API.<br/><img src='/images/500x300.png'>"
+excerpt: "An android application and bidding platform that allows for efficient farmer-vendor interaction. Wrote efficient
+database queries - (SQLite). Developed the entire backend logic. Integrated Google maps API to calculate the delivery
+cost based on farmers location.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
