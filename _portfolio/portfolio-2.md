@@ -3,7 +3,7 @@ title: "Online Code Generator/Search"
 excerpt: "Users can search for specific questions Conceptual/Coding using OpenAI APIs. The interface lets users retrieve source
 code in the R language for customized dataset and provides R Code Editor to run the retrieved code. Experimented with
 ChatGpt 3.5 Turbo API.<br/>"
-myurl: "https://github.com/SammedAdmuthe/BuyMe"
+link: "https://github.com/SammedAdmuthe/BuyMe"
 collection: portfolio
 ---
 
