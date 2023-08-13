@@ -1,8 +1,8 @@
----
+<!-- ---
 title: "Waksman Inst of Microbiology, New Brunswick"
 collection: publications
 permalink: /workexperience/workexperience_1
----
+--- -->
 
 ======
 <i>Research Assistant</i><br>
