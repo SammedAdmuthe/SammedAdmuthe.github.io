@@ -17,11 +17,13 @@ Education
     
     Courses - 
     Introduction to Artificial Intelligence, Data structures and Algorithms, Database Management System, Operating System, Database system for Data Science, Design of Internet Services, Regression Analysis.
+    [Download Transcript here](http://academicpages.github.io/files/UndergradTranscript.pdf)
 
 * <h3><u>University of Pune</u></h3>
     <b>Bachelor of Engineering in Computer Engineering </b><i>(August 2016 - April 2020)</i>
 
     Courses - 
     Advanced Datastructures and Algorithms, Principles of Programming Language, Object Oriented Programming, Software Engineering and Project Management, Software Modeling and Design, Web Technology, Data Analytics, Data Mining and Warehousing, Distributed Systems, Software Computation and Optimization of Algorithm.
+    [Download Transcript here](http://academicpages.github.io/files/GradTranscript.pdf)
 
 
