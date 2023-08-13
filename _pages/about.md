@@ -13,13 +13,13 @@ My name is Sammed Sunil Admuthe. I am currently pursuing my Masters in Computer 
 Education
 ======
 * <h3>Rutgers University, New Brunswick</h3>
-    <h4>Master of Science in Computer Science <i><h6>(September 2022 - Present (May 2024))</h6></i></h4>
+    <h4>Master of Science in Computer Science <i>(September 2022 - Present (May 2024))</i></h4>
     
     Courses - 
     Introduction to Artificial Intelligence, Data structures and Algorithms, Database Management System, Operating System, Database system for Data Science, Design of Internet Services, Regression Analysis.
 
 * <h3>University of Pune</h3>
-    <h4>Bachelor of Engineering in Computer Engineering <i><h6>August 2016 - April 2020</h6></i></h4>
+    <h4>Bachelor of Engineering in Computer Engineering <i>(August 2016 - April 2020)</i></h4>
     Courses - 
     Advanced Datastructures and Algorithms, Principles of Programming Language, Object Oriented Programming, Software Engineering and Project Management, Software Modeling and Design, Web Technology, Data Analytics, Data Mining and Warehousing, Distributed Systems, Software Computation and Optimization of Algorithm.
 
