@@ -36,9 +36,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Work Experience
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.workexperience %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
