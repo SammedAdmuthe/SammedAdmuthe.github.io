@@ -8,5 +8,5 @@ excerpt: '<ul><li>Developed and compared GET, PATCH and POST API calls for e-com
 <li>Responsible for developing optimized code snippets in Javascript.</li>
 <li>Assisted Professor in reviewing Software Engineering projects and deliverables.</li>
 <li>Graded programming assignments for accuracy and algorithm optimization in a class of 150 students.</li>
-<li></li></ul>'
+</ul>'
 ---

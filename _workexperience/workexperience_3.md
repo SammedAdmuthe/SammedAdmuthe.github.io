@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Icertis"
+position: "Software Engineer"
 collection: workexperience
-permalink: /workexperience/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /workexperience/workexperience_1
+duration: July 2020 - July 2022
+excerpt: '<ul><li>Worked on feature-driven development and enhancements for Icertis Contract Management(ICM) platform.</li>
+<li>Developed client specific upgrade-safe customization using C#, .NET, Javascript and MVC framework.</li>
+<li>Designed and developed production-ready reusable solutions for commonly used features that reduced 16 man-hours of
+development efforts per Product Backlog Item.</li>
+<li>Implemented event/schedule based tasks that replaced traditional tasks and reduced system overload by 30%.</li>
+<li>Worked on integrating Icertis Contract Management system with external applications like Adobe Sign, Docusign, SSO.</li>
+<li>Automated and optimized test cases from scratch for the clients like Apple, Porsche, Sanofi, Biomerieux and Merck.</li>
+</ul>'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
