@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills and Achievements"
+title: ""
 permalink: /skills/
 author_profile: true
 redirect_from:
