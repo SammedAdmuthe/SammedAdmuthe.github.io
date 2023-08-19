@@ -13,3 +13,6 @@ development efforts per Product Backlog Item.</li>
 <li>Automated and optimized test cases from scratch for the clients like Apple, Porsche, Sanofi, Biomerieux and Merck.</li>
 </ul>'
 ---
+
+<i class="fas fa-award"></i>
+<i class="fas fa-award"></i>

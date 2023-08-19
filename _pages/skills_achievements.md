@@ -8,7 +8,7 @@ redirect_from:
 ---
 
   
-Skills
+<u>Skills</u>
 ======
 
 * Programming Language and Databases
@@ -18,7 +18,7 @@ Skills
   * Rest API, Node JS, GIT, Service Bus Explorer <b>(Work Proficiency)</b>
   * Kubernetes, Kafka
 
-Certifications
+<u>Certifications</u>
 ======
 <ul>
   <li>Apache Kafka Essential Training: Getting Started (2021)</li>
