@@ -21,7 +21,7 @@ redirect_from:
 <u>Certifications</u>
 ======
 <ul>
-  <li>Apache Kafka Essential Training: Getting Started (2021)</li>
+  <li><a href="https://www.linkedin.com/learning/certificates/e552dfdbaa1e0766ee524a1d6ec16db21945c62d927f4acbebfbeffb9ac1eaac">Apache Kafka Essential Training: Getting Started (2021)</a></li>
   <li>Learning Kubernetes</li>
   <li>Software Architecture Foundations</li>
   <li>Convolutional Neural Networks</li>
