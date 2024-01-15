@@ -12,10 +12,10 @@ redirect_from:
 ======
 
 * Programming Language and Databases
-  * C#, Java, SQL Server, MySQL, Javascript, Typescript, HTML5, CSS3 <b>(Work Proficiency)</b>
-  * Python, C, C++, JQuery
+  * Python, C#, Java, SQL Server, MySQL, Javascript, Typescript, HTML5, CSS3 <b>(Work Proficiency)</b>
+  * C, C++, JQuery
 * Development Tech
-  * Rest API, Node JS, GIT, Service Bus Explorer <b>(Work Proficiency)</b>
+  * Azure, AWS, Rest API, Node JS, GIT, Service Bus Explorer <b>(Work Proficiency)</b>
   * Kubernetes, Kafka
 
 <u>Certifications</u>
