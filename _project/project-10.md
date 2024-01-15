@@ -1,7 +1,7 @@
 ---
-title: "User Level Threads"
-excerpt: "Developed an innovative User Level Thread library in C++ to explore the efficiency and flexibility of lightweight threading. This project entailed designing and implementing various methods and algorithms to manage threads independently of the OS kernel. The library offers customizable scheduling and synchronization mechanisms, enabling it to operate on multiple operating systems without reliance on kernel-level support <br/>"
-link: "https://github.com/SammedAdmuthe/User-Level---Threads-"
+title: "Account Management System"
+excerpt: "Engineered an advanced Online Account Management System in C++, integrating financial transaction capabilities with a QT Creator GUI for enhanced user experience. Features include real-time balance tracking, stock portfolio management, and secure transaction history. Utilized Singleton and Strategy patterns for efficient operation, and implemented synchronization across accounts. Tech Stack: C++, Ggplot, QT Creator <br/>"
+link: "https://github.com/SammedAdmuthe/Account-Management-System"
 collection: project
 ---
 <!-- <head>
