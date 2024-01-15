@@ -1,12 +1,14 @@
 ---
-title: "Graduate Research Assistant"
+title: "Waksman Inst of Microbiology, New Brunswick"
 position: "Research Assistant"
+duration: March 2023 - August 2023
 collection: workexperience
 permalink: /workexperience/workexperience_1
-duration: June 2023 - October 2023
-excerpt: '<ul><li>Developed and compared GET, PATCH and POST API calls for e-commerce website using plain old Javascript and Express JS</li>
-<li>Responsible for developing optimized code snippets in Javascript.</li>
-<li>Assisted Professor in reviewing Software Engineering projects and deliverables.</li>
-<li>Graded programming assignments for accuracy and algorithm optimization in a class of 150 students.</li>
-</ul>'
+excerpt: '<ul><li>Working on Software modernization and feature enhancements for a website. Involved in full-stack development and
+implementation of REST APIs.</li>
+<li>Successfully migrated legacy database to MS SQL Server 2022. Implemented stored procedures and optimized database
+queries for efficient data retrieval.</li></ul>'
 ---
+
+
+

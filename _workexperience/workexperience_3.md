@@ -1,18 +1,12 @@
 ---
-title: "Icertis"
-position: "Software Engineer"
+title: "Graduate Research Assistant"
+position: "Research Assistant"
 collection: workexperience
 permalink: /workexperience/workexperience_1
-duration: July 2020 - July 2022
-excerpt: '<ul><li>Worked on feature-driven development and enhancements for Icertis Contract Management(ICM) platform.</li>
-<li>Developed client specific upgrade-safe customization using C#, .NET, Javascript and MVC framework.</li>
-<li>Designed and developed production-ready reusable solutions for commonly used features that reduced 16 man-hours of
-development efforts per Product Backlog Item.</li>
-<li>Implemented event/schedule based tasks that replaced traditional tasks and reduced system overload by 30%.</li>
-<li>Worked on integrating Icertis Contract Management system with external applications like Adobe Sign, Docusign, SSO.</li>
-<li>Automated and optimized test cases from scratch for the clients like Apple, Porsche, Sanofi, Biomerieux and Merck.</li>
+duration: June 2023 - October 2023
+excerpt: '<ul><li>Developed and compared GET, PATCH and POST API calls for e-commerce website using plain old Javascript and Express JS</li>
+<li>Responsible for developing optimized code snippets in Javascript.</li>
+<li>Assisted Professor in reviewing Software Engineering projects and deliverables.</li>
+<li>Graded programming assignments for accuracy and algorithm optimization in a class of 150 students.</li>
 </ul>'
 ---
-
-<i class="fas fa-award"></i>
-<i class="fas fa-award"></i>
